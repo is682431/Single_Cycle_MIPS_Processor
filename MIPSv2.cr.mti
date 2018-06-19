@@ -1,0 +1,123 @@
+C:/MIPSproyects/MIPS_Single_Cycle/PC_Register.v {1 {vlog -work work -vopt C:/MIPSproyects/MIPS_Single_Cycle/PC_Register.v
+Model Technology ModelSim SE-64 vlog 10.1d Compiler 2012.11 Nov  1 2012
+-- Compiling module PC_Register
+
+Top level modules:
+	PC_Register
+
+} {} {}} C:/MIPSproyects/MIPS_Single_Cycle/Adder32bits.v {1 {vlog -work work -vopt C:/MIPSproyects/MIPS_Single_Cycle/Adder32bits.v
+Model Technology ModelSim SE-64 vlog 10.1d Compiler 2012.11 Nov  1 2012
+-- Compiling module Adder32bits
+
+Top level modules:
+	Adder32bits
+
+} {} {}} C:/MIPSproyects/MIPS_Single_Cycle/MIPS_Processor.v {1 {vlog -work work -vopt C:/MIPSproyects/MIPS_Single_Cycle/MIPS_Processor.v
+Model Technology ModelSim SE-64 vlog 10.1d Compiler 2012.11 Nov  1 2012
+-- Compiling module MIPS_Processor
+
+Top level modules:
+	MIPS_Processor
+
+} {} {}} C:/MIPSproyects/MIPS_Single_Cycle/SignExtend.v {1 {vlog -work work -vopt C:/MIPSproyects/MIPS_Single_Cycle/SignExtend.v
+Model Technology ModelSim SE-64 vlog 10.1d Compiler 2012.11 Nov  1 2012
+-- Compiling module SignExtend
+
+Top level modules:
+	SignExtend
+
+} {} {}} C:/MIPSproyects/MIPS_Single_Cycle/ShiftLeft2.v {1 {vlog -work work -vopt C:/MIPSproyects/MIPS_Single_Cycle/ShiftLeft2.v
+Model Technology ModelSim SE-64 vlog 10.1d Compiler 2012.11 Nov  1 2012
+-- Compiling module ShiftLeft2
+
+Top level modules:
+	ShiftLeft2
+
+} {} {}} C:/MIPSproyects/MIPS_Single_Cycle/ALUControl.v {1 {vlog -work work -vopt C:/MIPSproyects/MIPS_Single_Cycle/ALUControl.v
+Model Technology ModelSim SE-64 vlog 10.1d Compiler 2012.11 Nov  1 2012
+-- Compiling module ALUControl
+
+Top level modules:
+	ALUControl
+
+} {} {}} C:/MIPSproyects/MIPS_Single_Cycle/DataMemory.v {1 {vlog -work work -vopt C:/MIPSproyects/MIPS_Single_Cycle/DataMemory.v
+Model Technology ModelSim SE-64 vlog 10.1d Compiler 2012.11 Nov  1 2012
+-- Compiling module DataMemory
+
+Top level modules:
+	DataMemory
+
+} {} {}} C:/MIPSproyects/MIPS_Single_Cycle/DecoderRegisterFile.v {1 {vlog -work work -vopt C:/MIPSproyects/MIPS_Single_Cycle/DecoderRegisterFile.v
+Model Technology ModelSim SE-64 vlog 10.1d Compiler 2012.11 Nov  1 2012
+-- Compiling module DecoderRegisterFile
+
+Top level modules:
+	DecoderRegisterFile
+
+} {} {}} C:/MIPSproyects/MIPS_Single_Cycle/ANDGate.v {1 {vlog -work work -vopt C:/MIPSproyects/MIPS_Single_Cycle/ANDGate.v
+Model Technology ModelSim SE-64 vlog 10.1d Compiler 2012.11 Nov  1 2012
+-- Compiling module ANDGate
+
+Top level modules:
+	ANDGate
+
+} {} {}} C:/MIPSproyects/MIPS_Single_Cycle/Definitions.v {1 {vlog -work work -vopt C:/MIPSproyects/MIPS_Single_Cycle/Definitions.v
+Model Technology ModelSim SE-64 vlog 10.1d Compiler 2012.11 Nov  1 2012
+
+} {} {}} C:/MIPSproyects/MIPS_Single_Cycle/MUXRegisterFile.v {1 {vlog -work work -vopt C:/MIPSproyects/MIPS_Single_Cycle/MUXRegisterFile.v
+Model Technology ModelSim SE-64 vlog 10.1d Compiler 2012.11 Nov  1 2012
+-- Compiling module MUXRegisterFile
+
+Top level modules:
+	MUXRegisterFile
+
+} {} {}} C:/MIPSproyects/MIPS_Single_Cycle/ProgramMemory.v {1 {vlog -work work -vopt C:/MIPSproyects/MIPS_Single_Cycle/ProgramMemory.v
+Model Technology ModelSim SE-64 vlog 10.1d Compiler 2012.11 Nov  1 2012
+-- Compiling module ProgramMemory
+
+Top level modules:
+	ProgramMemory
+
+} {} {}} C:/MIPSproyects/MIPS_Single_Cycle/Control.v {1 {vlog -work work -vopt C:/MIPSproyects/MIPS_Single_Cycle/Control.v
+Model Technology ModelSim SE-64 vlog 10.1d Compiler 2012.11 Nov  1 2012
+-- Compiling module Control
+
+Top level modules:
+	Control
+
+} {} {}} C:/MIPSproyects/MIPS_Single_Cycle/Multiplexer2to1.v {1 {vlog -work work -vopt C:/MIPSproyects/MIPS_Single_Cycle/Multiplexer2to1.v
+Model Technology ModelSim SE-64 vlog 10.1d Compiler 2012.11 Nov  1 2012
+-- Compiling module Multiplexer2to1
+
+Top level modules:
+	Multiplexer2to1
+
+} {} {}} C:/MIPSproyects/MIPS_Single_Cycle/ALU.v {1 {vlog -work work -vopt C:/MIPSproyects/MIPS_Single_Cycle/ALU.v
+Model Technology ModelSim SE-64 vlog 10.1d Compiler 2012.11 Nov  1 2012
+-- Compiling module ALU
+
+Top level modules:
+	ALU
+
+} {} {}} C:/MIPSproyects/MIPS_Single_Cycle/RegisterFile.v {1 {vlog -work work -vopt C:/MIPSproyects/MIPS_Single_Cycle/RegisterFile.v
+Model Technology ModelSim SE-64 vlog 10.1d Compiler 2012.11 Nov  1 2012
+-- Compiling module RegisterFile
+
+Top level modules:
+	RegisterFile
+
+} {} {}} C:/MIPSproyects/MIPS_Single_Cycle/Register.v {1 {vlog -work work -vopt C:/MIPSproyects/MIPS_Single_Cycle/Register.v
+Model Technology ModelSim SE-64 vlog 10.1d Compiler 2012.11 Nov  1 2012
+-- Compiling module Register
+
+Top level modules:
+	Register
+
+} {} {}} C:/MIPSproyects/MIPS_Single_Cycle/MIPS_Processor_TB.v {1 {vlog -work work -vopt C:/MIPSproyects/MIPS_Single_Cycle/MIPS_Processor_TB.v
+Model Technology ModelSim SE-64 vlog 10.1d Compiler 2012.11 Nov  1 2012
+-- Compiling module MIPS_Processor_TB
+
+Top level modules:
+	MIPS_Processor_TB
+
+} {} {}}

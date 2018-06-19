@@ -1,0 +1,335 @@
+m255
+K3
+13
+cModel Technology
+dC:\modeltech64_10.1d\examples
+T_opt
+VX6`gG@kGjebJDD]V9JShb1
+04 17 4 work MIPS_Processor_TB fast 0
+=1-6c3be520eb6b-5b2928ad-f3-22e8
+o-quiet -auto_acc_if_foreign -work work
+n@_opt
+OL;O;10.1d;51
+vAdder32bits
+I`ckFF?g]^X5k3G3Z2g=GO3
+VhbeHMJ9:9][[WIY?Ingef0
+Z0 dC:\MIPSproyects\MIPS_Single_Cycle
+w1419780579
+8C:/MIPSproyects/MIPS_Single_Cycle/Adder32bits.v
+FC:/MIPSproyects/MIPS_Single_Cycle/Adder32bits.v
+L0 13
+Z1 OL;L;10.1d;51
+r1
+31
+Z2 o-work work -L mtiAvm -L mtiOvm -L mtiUvm -L mtiUPF
+n@adder32bits
+!s100 MJE]U@N]P1>R[>VMGKT630
+!s90 -reportprogress|300|-work|work|-vopt|C:/MIPSproyects/MIPS_Single_Cycle/Adder32bits.v|
+!s108 1529424026.596000
+!s107 C:/MIPSproyects/MIPS_Single_Cycle/Adder32bits.v|
+!i10b 1
+!s85 0
+vALU
+I<dbRgTagz@>m`Fk;of?7U0
+VX?7JjznJ[`4e<^zaa=]DE2
+Z3 dC:\MIPSproyects\MIPS_Single_Cycle
+w1529423591
+8C:/MIPSproyects/MIPS_Single_Cycle/ALU.v
+FC:/MIPSproyects/MIPS_Single_Cycle/ALU.v
+L0 20
+R1
+r1
+31
+R2
+n@a@l@u
+!s90 -reportprogress|300|-work|work|-vopt|C:/MIPSproyects/MIPS_Single_Cycle/ALU.v|
+!s100 A]<=`B66FFXS;R?@3Rh]V0
+!s108 1529424026.705000
+!s107 C:/MIPSproyects/MIPS_Single_Cycle/ALU.v|
+!i10b 1
+!s85 0
+vALUControl
+IKR3[PEifKKBIBI8=<><2L3
+VYG3?]Rm0iHlPnI6^P<_K72
+R3
+w1529423729
+8C:/MIPSproyects/MIPS_Single_Cycle/ALUControl.v
+FC:/MIPSproyects/MIPS_Single_Cycle/ALUControl.v
+L0 15
+R1
+r1
+31
+R2
+n@a@l@u@control
+!s90 -reportprogress|300|-work|work|-vopt|C:/MIPSproyects/MIPS_Single_Cycle/ALUControl.v|
+!s100 B`jJJL1MJGl@8lMSJ1WHd2
+!s108 1529424026.854000
+!s107 C:/MIPSproyects/MIPS_Single_Cycle/ALUControl.v|
+!i10b 1
+!s85 0
+vANDGate
+Iha7:_D>Ie;;AH^C4nCXZ10
+V@P6ZJzDP4U00DFc40UnH?0
+R3
+w1419780594
+8C:/MIPSproyects/MIPS_Single_Cycle/ANDGate.v
+FC:/MIPSproyects/MIPS_Single_Cycle/ANDGate.v
+L0 13
+R1
+r1
+31
+R2
+n@a@n@d@gate
+!s100 Se:W]b579Lk7KgS^b>X>50
+!s90 -reportprogress|300|-work|work|-vopt|C:/MIPSproyects/MIPS_Single_Cycle/ANDGate.v|
+!s108 1529424027.038000
+!s107 C:/MIPSproyects/MIPS_Single_Cycle/ANDGate.v|
+!i10b 1
+!s85 0
+vControl
+II_0^MIN[^EJY81fj@MN@Q3
+Vz:K>_dX<NB9mlKU@9>RGK2
+R3
+w1529423903
+8C:/MIPSproyects/MIPS_Single_Cycle/Control.v
+FC:/MIPSproyects/MIPS_Single_Cycle/Control.v
+L0 14
+R1
+r1
+31
+R2
+n@control
+!s90 -reportprogress|300|-work|work|-vopt|C:/MIPSproyects/MIPS_Single_Cycle/Control.v|
+!s100 jkBPlUQI6R<BDOgo5S1@F0
+!s108 1529424027.289000
+!s107 C:/MIPSproyects/MIPS_Single_Cycle/Control.v|
+!i10b 1
+!s85 0
+vDataMemory
+Ie;N=nT^o:?:H0iokGYPJH3
+V4L9lB_hUOgDh5240fH`j10
+R3
+w1419780722
+8C:/MIPSproyects/MIPS_Single_Cycle/DataMemory.v
+FC:/MIPSproyects/MIPS_Single_Cycle/DataMemory.v
+L0 13
+R1
+r1
+31
+R2
+n@data@memory
+!s100 RckFUeQ1]J87X7eZbM5[g3
+!s90 -reportprogress|300|-work|work|-vopt|C:/MIPSproyects/MIPS_Single_Cycle/DataMemory.v|
+!s108 1529424027.421000
+!s107 C:/MIPSproyects/MIPS_Single_Cycle/DataMemory.v|
+!i10b 1
+!s85 0
+vDecoderRegisterFile
+IiV6Ln;_jT7bGbH4Z]fj]:3
+VAzJiE5G;z;;Z`IVeRHbi]2
+R3
+w1419780743
+8C:/MIPSproyects/MIPS_Single_Cycle/DecoderRegisterFile.v
+FC:/MIPSproyects/MIPS_Single_Cycle/DecoderRegisterFile.v
+L0 12
+R1
+r1
+31
+R2
+n@decoder@register@file
+!s100 HPQTDb;<?NGO7M_I^hdzA2
+!s90 -reportprogress|300|-work|work|-vopt|C:/MIPSproyects/MIPS_Single_Cycle/DecoderRegisterFile.v|
+!s108 1529424027.554000
+!s107 C:/MIPSproyects/MIPS_Single_Cycle/DecoderRegisterFile.v|
+!i10b 1
+!s85 0
+vMIPS_Processor
+IkWUeZ1cQ4aWDC4?LfnOho0
+VaE2gOPiDQAMgR=AGEcl7@2
+R3
+w1529419416
+8C:/MIPSproyects/MIPS_Single_Cycle/MIPS_Processor.v
+FC:/MIPSproyects/MIPS_Single_Cycle/MIPS_Processor.v
+L0 28
+R1
+r1
+31
+R2
+n@m@i@p@s_@processor
+!s100 Z0_<W@WbCOLPczh4<zEF62
+!s90 -reportprogress|300|-work|work|-vopt|C:/MIPSproyects/MIPS_Single_Cycle/MIPS_Processor.v|
+!s108 1529424027.738000
+!s107 C:/MIPSproyects/MIPS_Single_Cycle/MIPS_Processor.v|
+!i10b 1
+!s85 0
+vMIPS_Processor_TB
+I?WTjH;c_Yl]EX?<YEo07o2
+VF;RK8<I_2l2fKA6oTTYc[0
+R3
+w1465771738
+8C:/MIPSproyects/MIPS_Single_Cycle/MIPS_Processor_TB.v
+FC:/MIPSproyects/MIPS_Single_Cycle/MIPS_Processor_TB.v
+L0 15
+R1
+r1
+31
+R2
+n@m@i@p@s_@processor_@t@b
+!s100 A]1JKdo7e@LCin603TSb21
+!s90 -reportprogress|300|-work|work|-vopt|C:/MIPSproyects/MIPS_Single_Cycle/MIPS_Processor_TB.v|
+!s108 1529424027.879000
+!s107 C:/MIPSproyects/MIPS_Single_Cycle/MIPS_Processor_TB.v|
+!i10b 1
+!s85 0
+vMultiplexer2to1
+IZCi9@AK_AmX37J8bE15Zo1
+VVK]UMc9_`U;kn>BU8WnV61
+R3
+w1419780640
+8C:/MIPSproyects/MIPS_Single_Cycle/Multiplexer2to1.v
+FC:/MIPSproyects/MIPS_Single_Cycle/Multiplexer2to1.v
+L0 13
+R1
+r1
+31
+R2
+n@multiplexer2to1
+!s100 b;I6zXonK9@01[mSnmi>b1
+!s90 -reportprogress|300|-work|work|-vopt|C:/MIPSproyects/MIPS_Single_Cycle/Multiplexer2to1.v|
+!s108 1529424028.029000
+!s107 C:/MIPSproyects/MIPS_Single_Cycle/Multiplexer2to1.v|
+!i10b 1
+!s85 0
+vMUXRegisterFile
+I^O0Zo3fNY5ClhE<fOB32G0
+VFY5?DFN3TE7YHT48]kVZO0
+R3
+w1392863324
+8C:/MIPSproyects/MIPS_Single_Cycle/MUXRegisterFile.v
+FC:/MIPSproyects/MIPS_Single_Cycle/MUXRegisterFile.v
+L0 2
+R1
+r1
+31
+R2
+n@m@u@x@register@file
+!s100 ^e^`;aYc7Whz81?BHXLo@3
+!s90 -reportprogress|300|-work|work|-vopt|C:/MIPSproyects/MIPS_Single_Cycle/MUXRegisterFile.v|
+!s108 1529424028.187000
+!s107 C:/MIPSproyects/MIPS_Single_Cycle/MUXRegisterFile.v|
+!i10b 1
+!s85 0
+vPC_Register
+ITQX6YNbgbcejzMQ`n7ej<0
+V2:fMeLJdzQT:7g8FXJzTc1
+R3
+w1419780658
+8C:/MIPSproyects/MIPS_Single_Cycle/PC_Register.v
+FC:/MIPSproyects/MIPS_Single_Cycle/PC_Register.v
+L0 15
+R1
+r1
+31
+R2
+n@p@c_@register
+!s100 eD`CjCL]ZTY`;SEQ6ATZG2
+!s90 -reportprogress|300|-work|work|-vopt|C:/MIPSproyects/MIPS_Single_Cycle/PC_Register.v|
+!s108 1529424028.346000
+!s107 C:/MIPSproyects/MIPS_Single_Cycle/PC_Register.v|
+!i10b 1
+!s85 0
+vProgramMemory
+I2?CFLU9J_AcI<jK6fB9Um2
+VCC`gfbQneU65h7iiQf?k:2
+R3
+w1529419186
+8C:/MIPSproyects/MIPS_Single_Cycle/ProgramMemory.v
+FC:/MIPSproyects/MIPS_Single_Cycle/ProgramMemory.v
+L0 15
+R1
+r1
+31
+R2
+n@program@memory
+!s100 :SZHo7^f^A2?YnD]9;;NF2
+!s90 -reportprogress|300|-work|work|-vopt|C:/MIPSproyects/MIPS_Single_Cycle/ProgramMemory.v|
+!s108 1529424028.496000
+!s107 C:/MIPSproyects/MIPS_Single_Cycle/ProgramMemory.v|
+!i10b 1
+!s85 0
+vRegister
+Imk2HAJAbG[OHnikj_RV4^2
+V=zJ3n6de@MA;R2<J<Hg2>0
+R3
+w1419780761
+8C:/MIPSproyects/MIPS_Single_Cycle/Register.v
+FC:/MIPSproyects/MIPS_Single_Cycle/Register.v
+L0 12
+R1
+r1
+31
+R2
+n@register
+!s100 Lhg[L3_EY1:he`GB@0FG;0
+!s90 -reportprogress|300|-work|work|-vopt|C:/MIPSproyects/MIPS_Single_Cycle/Register.v|
+!s108 1529424028.668000
+!s107 C:/MIPSproyects/MIPS_Single_Cycle/Register.v|
+!i10b 1
+!s85 0
+vRegisterFile
+I7VziO:mdLi_Ee>lJk8[m]0
+VNW:i3U9n;NY?X@GQ<b1oG0
+R3
+w1475516362
+8C:/MIPSproyects/MIPS_Single_Cycle/RegisterFile.v
+FC:/MIPSproyects/MIPS_Single_Cycle/RegisterFile.v
+L0 15
+R1
+r1
+31
+R2
+n@register@file
+!s100 X65nIgGQ0IkZdi1N`PHRL3
+!s90 -reportprogress|300|-work|work|-vopt|C:/MIPSproyects/MIPS_Single_Cycle/RegisterFile.v|
+!s108 1529424028.862000
+!s107 C:/MIPSproyects/MIPS_Single_Cycle/RegisterFile.v|
+!i10b 1
+!s85 0
+vShiftLeft2
+IEb>?YA2ee9gSLMNP_ieoT1
+Vnb>Sakz<@KW@i;;^V8USl3
+R3
+w1419780687
+8C:/MIPSproyects/MIPS_Single_Cycle/ShiftLeft2.v
+FC:/MIPSproyects/MIPS_Single_Cycle/ShiftLeft2.v
+L0 12
+R1
+r1
+31
+R2
+n@shift@left2
+!s100 MWB6RJ=3@94LnaC^1B<^[1
+!s90 -reportprogress|300|-work|work|-vopt|C:/MIPSproyects/MIPS_Single_Cycle/ShiftLeft2.v|
+!s108 1529424029.058000
+!s107 C:/MIPSproyects/MIPS_Single_Cycle/ShiftLeft2.v|
+!i10b 1
+!s85 0
+vSignExtend
+Ih^kB8PElZCf[X_TO^da9>0
+V3c0EGMRjO^8AQ<D2Q;35d2
+R3
+w1419780694
+8C:/MIPSproyects/MIPS_Single_Cycle/SignExtend.v
+FC:/MIPSproyects/MIPS_Single_Cycle/SignExtend.v
+L0 14
+R1
+r1
+31
+R2
+n@sign@extend
+!s100 R8ocdkB0e<X36FK30YCDE0
+!s90 -reportprogress|300|-work|work|-vopt|C:/MIPSproyects/MIPS_Single_Cycle/SignExtend.v|
+!i10b 1
+!s85 0
+!s108 1529424029.321000
+!s107 C:/MIPSproyects/MIPS_Single_Cycle/SignExtend.v|
